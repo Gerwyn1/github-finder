@@ -99,9 +99,9 @@ const User = () => {
                   <div className="stat-title text-md">Website</div>
                   <div className="text-lg stat-value">
                     {/* websiteUrl */}
-                    <a href={""} target="_blank" rel="noreferrer">
+                    {/* <a href={""} target="_blank" rel="noreferrer"> */}
                       {/* {websiteUrl} */}
-                    </a>
+                    {/* </a> */}
                   </div>
                 </div>
               )}
